@@ -1,7 +1,5 @@
 Introduction
-SpectraX is a stairghtforwad but powerful tool for performing PCA (Principal Component Analysis) on exported MS (mass spectrometry) spectra data. The MS spectra data
-need to be exported into spreadsheet for analysis. The software is designed for discovering distinguishing m/z value among different groups. Potential application 
-would be prelimetery scanning of natural product or bio-marker. Demo data (acquired from bacteria by ambient ionization) was given for demonstration and getting familiar with software. 
+SpectraX is a stairghtforwad but powerful tool for performing PCA (Principal Component Analysis) on exported MS (mass spectrometry) spectra data. The MS spectra data need to be exported into spreadsheet for analysis. The software is designed for discovering distinguishing m/z value among different groups. Potential application would be prelimetery scanning of natural product or bio-marker. Demo data (acquired from bacteria by ambient ionization) was given for demonstration and getting familiar with software. 
 
 Using the SpectraX
 SpectraX is a standalone package don't need any installation. Double click on the app icon would work. Detail of using SpectraX can be found in our paper.
