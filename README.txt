@@ -3,6 +3,8 @@ SpectraX is a stairghtforwad but powerful tool for performing PCA (Principal Com
 
 Using the SpectraX
 SpectraX is a standalone package don't need any installation. Double click on the app icon would work. Detail of using SpectraX can be found in our paper.
+pca_app.mlapp is the MATLAB App designer file for SpectraX. GUI and codes are all contained in this file.
+SpectraX_exported.m is the exported code for SpectraX. This is exported for easier inspection of code.
 
 Contribution
 Hyperspectral is developed by Jian Yu (jian.yuy@queensu.ca) from Oleschuk Group at Chemistry department of Queen's University in Kingston, Canada.
