@@ -2,7 +2,7 @@ Introduction
 SpectraX is a stairghtforwad but powerful tool for performing PCA (Principal Component Analysis) on exported MS (mass spectrometry) spectra data. The MS spectra data need to be exported into spreadsheet for analysis. The software is designed for discovering distinguishing m/z value among different groups. Potential application would be prelimetery scanning of natural product or bio-marker. Demo data (acquired from bacteria by ambient ionization) was given for demonstration and getting familiar with software. 
 
 Using the SpectraX
-1. SpectraX is a standalone package don't need any installation. Double click on the app icon would work. Detail of using SpectraX can be found in our paper.
+1. SpectraX.exe is a standalone package don't need any installation for windows OS. Double click on the app icon would work. Detail of using SpectraX can be found in our paper. If it's showing matlab runtime is missing, then double click on SpctraX_Appinstaller_web.exe to install SpectraX on your computer. Matlab runtime (~900MB) will be downloaded during the installation process. Internet access is needed for installation only.
 2. pca_app.mlapp is the MATLAB App designer file for SpectraX. GUI and codes are all contained in this file.
 3. SpectraX_exported.m is the exported code for SpectraX. This is exported for easier inspection of code.
 
